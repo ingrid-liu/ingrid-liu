@@ -1,4 +1,4 @@
-### 🌱 Currently working on delving coding for one day that I can have an Australian Shepherd mini dog(๑•̀ㅂ•́)و✧
+### Do not go gentle into that good night ✧
 
 <!--
 **summeringrid/summeringrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
