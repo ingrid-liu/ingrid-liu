@@ -1,4 +1,8 @@
-### Do not go gentle into that good night ✧
+### (๑•̀ㅂ•́)و✧ Currently working on delving coding for one day that I can have an Australian Shepherd mini dog
+- 🌱 Recently learning OOD in Java and Datastrucutre in C...
+- 👯 Fun fact: I am an identical egg twin girl with my twin sister in the other end of the Pacific Ocean...
+
+
 
 <!--
 **summeringrid/summeringrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: Xiaoying - https://bit.ly/3or6YPz 
 - ⚡ Fun fact: I am an identical egg twin girl with my twin sister in the other end of the Pacific Ocean...
+### Do not go gentle into that good night ✧
 -->
+
